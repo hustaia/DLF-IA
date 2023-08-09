@@ -5,3 +5,5 @@ This repository includes the official implementation of DLF-IAA for RGB-Thermal 
 **[Late Better than Early: A Decision-Level Information Fusion Approach for RGB-Thermal Crowd Counting with Illumination-Awareness Attention]()**
 
 submitted to Information Fusion, 2023
+
+Code will come soon.

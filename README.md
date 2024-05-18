@@ -2,7 +2,7 @@
 
 This repository includes the official implementation of DLF-IA for RGB-Thermal crowd counting, presented in our paper:
 
-**[**[Late Better than Early: A Decision-Level Information Fusion Approach for RGB-Thermal Crowd Counting with Illumination Awareness](https://github.com/hustaia/DLF-IA/blob/main)**](website here)**
+**[**[Late Better than Early: A Decision-Level Information Fusion Approach for RGB-Thermal Crowd Counting with Illumination Awareness](https://github.com/hustaia/DLF-IA/blob/main)**]([https://www.sciencedirect.com/science/article/pii/S0925231224006593])**
 
 Neurocomputing, 2024
 
